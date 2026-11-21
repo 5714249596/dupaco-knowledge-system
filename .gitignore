@@ -1,0 +1,15 @@
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.key
+
+# supplied website data is not redistributed: drop the kit's snapshots_zip/ in locally
+snapshots/0*/
+snapshots_zip/
+*.zip
+
+# kit handout
+Knowledge-Hackathon-Assignment.pdf

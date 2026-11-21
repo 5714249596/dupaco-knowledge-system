@@ -1,0 +1,5 @@
+# The solution runs on the Python standard library only (3.9+). Nothing to install for grading.
+#
+# Optional: the LLM re-phrasing layer (off by default, see NOTES.md) needs the Anthropic SDK.
+# Install it only if you set KB_USE_LLM=1 and provide ANTHROPIC_API_KEY:
+#   pip install anthropic
